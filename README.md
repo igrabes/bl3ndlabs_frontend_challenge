@@ -1,10 +1,10 @@
 # CODE CHALLENGE
 
-This a small app to search for your favorite superheroes. You have between 30min and 1hr to complete it. Do as much as you can, we will not focusing so much on the pace, but on how you approach the solution. Have fun!
+This a small app to search for your favorite superheroes. You have between 30min and 1hr to complete it. Do as much as you can, we will not be focusing so much on the pace, but on how you approach the solution. Have fun!
 
 ## Scope
 
-- Search Screen: As a user I want to search for superheroes by fetching from our Superheroes API. I want to be able to input the name of the superheroe and when clicking the search button it should display the results in a list below.
+- Search Screen: As a user I want to search for superheroes by fetching from our Superheroes API. I want to be able to input the name of the superheroe. When clicking on the search button the results should displayed in a list below.
 
 ## Requisites
 
